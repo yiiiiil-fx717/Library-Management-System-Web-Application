@@ -1,3 +1,7 @@
+# Library Management System Web Application
+
+This is an early project, so some part like readme and the comment are Chinese.
+
 系统名称：基于struts的图书管理系统
 
 程序说明：数据库文件：直接将数据库目录下的db_librarySys文件夹复制到mysql数据库的data目录下即可
@@ -15,4 +19,3 @@ mysql数据库登陆信息: 帐号root，密码123
   (6)系统设置: 管理员登陆系统后可以修改图书馆的信息，可以修改管理其他操作员的信息，可以管理书架信息。
   (7)口令更改：无论是管理员或读者身份登陆系统后，都可以对自己的登陆密码进行修改操作，这样保证了系统的安全性。
   
-
