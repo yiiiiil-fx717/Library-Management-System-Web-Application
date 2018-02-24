@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="StrutsLibrarySystem"
+  id="myeclipse.1240250803634"
+  context-root="/StrutsLibrarySystem"
+  j2ee-spec="1.4"
+  archive="StrutsLibrarySystem.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
