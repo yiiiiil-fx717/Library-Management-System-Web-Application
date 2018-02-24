@@ -1,7 +1,9 @@
 系统名称：基于struts的图书管理系统
-程序说明：
-数据库文件：直接将数据库目录下的db_librarySys文件夹复制到mysql数据库的data目录下即可
+
+程序说明：数据库文件：直接将数据库目录下的db_librarySys文件夹复制到mysql数据库的data目录下即可
+
 mysql数据库登陆信息: 帐号root，密码123
+
 管理员测试帐号: admin 密码: admin
 
 系统功能与特色:
